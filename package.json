@@ -1,7 +1,7 @@
 {
-  "name": "dokan-child",
+  "name": "gulp-setup",
   "version": "1.0.0",
-  "description": "Dokan child theme for JWalkyn site",
+  "description": "Package file with gulp devDependencies",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

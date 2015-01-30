@@ -1,6 +1,5 @@
 === Gulp-Setup ===
 
-
 This is a personal Gulp.js setup for front-end web development. 
 
 Here are a few notable tasks you can run form this setup. To view the entire list, please view the package.json file. 
