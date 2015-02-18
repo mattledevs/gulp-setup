@@ -24,5 +24,3 @@ To gain the full benefits of Flint's Gulp setup, please see the following exampl
 |----------|:-------------:|
 | `watch` |  Run Watch for *.scss*, *.js*, and *.html* () |
 | `sync` |    Run Browser-Sync    |
-| `takana` |    Run Takana ([docs](https://github.com/mechio/takana))   |
-| **`watcher`** | Run `takana`, `watch`, and `sync` simultaneously|
