@@ -1,14 +1,14 @@
 Ready? Set. Go!
 ---------------
 
-This is a barebones package to get started with Gulp and managing any of your packages with Bower neatly put together by @MattLePhoto.
+This is a barebones package to get started with Gulp and managing any of your packages with Bower neatly put together by @mattledevs.
 
-Enjoy, tweak, springboard, change the world. 
+Enjoy, tweak, springboard, change the world.
 
 
 Install Packages with Bower
 ---------------
-With Bower you can manage all your packages in one place and source control their versions. This step is optional. 
+With Bower you can manage all your packages in one place and source control their versions. This step is optional.
 
 ### Install Bower
 
@@ -36,7 +36,7 @@ $ bower install fontawesome --save
 
 Setting up Gulp
 ---------------
-Gulp is used as the task runner that preprocesses all of your stylesheets, javascript, etc. Follow these command lines to get up and running with Gulp. 
+Gulp is used as the task runner that preprocesses all of your stylesheets, javascript, etc. Follow these command lines to get up and running with Gulp.
 
 ### Install Gulp
 
@@ -66,12 +66,12 @@ $ npm install gulp-bower gulp-sass gulp-autoprefixer gulp-minify-css gulp-jshint
 $ gulp
 ```
 
-Here are a few notable tasks you can run form this setup. To view the entire list, please view the package.json file. 
+Here are a few notable tasks you can run form this setup. To view the entire list, please view the package.json file.
 
 Tasks with Gulp
 ===
 
-To gain the full benefits of Flint's Gulp setup, please see the following example commands: 
+To gain the full benefits of Flint's Gulp setup, please see the following example commands:
 
 **Compiling and optimizing tasks:**
 
